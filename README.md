@@ -1,6 +1,6 @@
 # upgqsl
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to upgrade java code written in querydsl 2.0 to querydsl 4.0.
 
 ## Usage
 
